@@ -1,0 +1,10 @@
+ Volume in drive I has no label.
+ Volume Serial Number is 3490-820F
+
+ Directory of I:\my\tech\work
+
+08/31/2019  10:36 PM    <DIR>          .
+08/31/2019  10:36 PM    <DIR>          ..
+08/31/2019  10:36 PM                 0 mytest.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  74,508,652,544 bytes free
